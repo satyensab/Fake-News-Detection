@@ -29,11 +29,12 @@
 * [x] accuracy_score()
 * [x] confusion_matrix()
 
-## Video Walkthrough of Program
-[![IMAGE ALT TEXT](https://img.etimg.com/thumb/msid-72106572,width-640,height-480,imgsize-216496,resizemode-4/seven-types-of-fake-news.jpg)](https://www.youtube.com/watch?v=HYsweBa42qY)
+## Video Walkthrough
+[![IMAGE ALT TEXT](https://i.ytimg.com/vi/5X27excCyXk/maxresdefault.jpg)](https://www.youtube.com/watch?v=HYsweBa42qY)
 
 ## Citations
  DataFlair - https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/
+ Image - https://i.ytimg.com/vi/5X27excCyXk/maxresdefault.jpg
  
 
 
