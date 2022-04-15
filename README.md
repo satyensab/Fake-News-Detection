@@ -34,6 +34,7 @@
 
 ## Citations
  DataFlair - https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/
+
  Image - https://i.ytimg.com/vi/5X27excCyXk/maxresdefault.jpg
  
 
