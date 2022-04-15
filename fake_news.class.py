@@ -1,16 +1,16 @@
-#imports libraries
-from dataclasses import dataclass
-import numpy as np
-import pandas as pd
-import itertools
-from sklearn.model_selection import train_test_split
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import PassiveAggressiveClassifier
-from sklearn.metrics import accuracy_score, confusion_matrix
-
-user_csv = input("What is the name of the csv file you want to analyze? ")
 
 class fake_News:
+    #imports libraries
+    from dataclasses import dataclass
+    import numpy as np
+    import pandas as pd
+    import itertools
+    from sklearn.model_selection import train_test_split
+    from sklearn.feature_extraction.text import TfidfVectorizer
+    from sklearn.linear_model import PassiveAggressiveClassifier
+    from sklearn.metrics import accuracy_score, confusion_matrix
+
+    user_csv = input("What is the name of the csv file you want to analyze? ")
     df = pd.read_csv(user_csv)
     print("\nDimension of the dataset is " + str(df.shape))
     print("First 5 items in the dataset: " + str(df.head()))
