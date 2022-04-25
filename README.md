@@ -6,7 +6,7 @@
   
   ### `pip install numpy pandas sklearn`
   
-  You will need to install Jupyter Lab to run the code.  Go to your command prompt and run the following command
+  You will need to install Jupyter Lab or Python to run the code.  Go to your command prompt and run the following command
   
   ### `C:\Users\DataFlair>jupyter lab`
   
